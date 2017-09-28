@@ -12,6 +12,7 @@
 		A325C2361F7D393E00B975DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A325C2341F7D393E00B975DF /* Main.storyboard */; };
 		A325C2381F7D393E00B975DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A325C2371F7D393E00B975DF /* Assets.xcassets */; };
 		A325C23B1F7D393E00B975DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A325C2391F7D393E00B975DF /* LaunchScreen.storyboard */; };
+		A3435B411F7D3FE3005EAC62 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = A3435B401F7D3FE3005EAC62 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A325C2371F7D393E00B975DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A325C23A1F7D393E00B975DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A325C23C1F7D393E00B975DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3435B401F7D3FE3005EAC62 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				A325C2321F7D393E00B975DF /* ViewController.swift */,
 				A325C2341F7D393E00B975DF /* Main.storyboard */,
 				A325C2371F7D393E00B975DF /* Assets.xcassets */,
+				A3435B401F7D3FE3005EAC62 /* pokemon.csv */,
 				A325C2391F7D393E00B975DF /* LaunchScreen.storyboard */,
 				A325C23C1F7D393E00B975DF /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				A325C23B1F7D393E00B975DF /* LaunchScreen.storyboard in Resources */,
 				A325C2381F7D393E00B975DF /* Assets.xcassets in Resources */,
+				A3435B411F7D3FE3005EAC62 /* pokemon.csv in Resources */,
 				A325C2361F7D393E00B975DF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				A325C2411F7D393E00B975DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
